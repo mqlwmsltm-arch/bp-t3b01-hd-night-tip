@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs><linearGradient id="bgt3b0" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#e65100"/><stop offset="100%" stop-color="#1b5e20"/>
-  </linearGradient></defs>
-  <rect width="32" height="32" rx="6" fill="url(#bgt3b0)"/>
-  <polygon points="16,2 20,12 30,12 22,18 25,28 16,22 7,28 10,18 2,12 12,12" fill="rgba(230,81,0,0.9)" stroke="rgba(27,94,32,0.6)" stroke-width="2"/>
-  <text x="16" y="21" text-anchor="middle" fill="#fff" font-size="8" font-weight="700" font-family="system-ui">T3</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>홍대 유흥 꿀팁</title>
+  <rect width="64" height="64" rx="10" fill="hsl(298 47% 20%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(24 68% 63%)" opacity="0.16"/>
+  <g transform="rotate(270 32 32)"><circle cx="32" cy="32" r="17" fill="none" stroke="hsl(298 24% 96%)" stroke-width="7"/><circle cx="32" cy="32" r="7" fill="hsl(24 68% 63%)"/></g>
 </svg>
